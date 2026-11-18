@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "2026-11-18--hermes-model-lifecycle-roadmap-no-go",
+  "recorded_at": "2026-11-18T18:39:46.507Z",
+  "actor": "OpenAI Codex, user-requested upstream roadmap",
+  "kind": "RESEARCH",
+  "decision": "NO_GO",
+  "case_path": ".opensiro/issues/model-lifecycle-s4-20261118",
+  "evidence_urls": [
+    "https://github.com/NousResearch/hermes-agent/issues/5452",
+    "https://github.com/NousResearch/hermes-agent/pull/26297",
+    "https://github.com/opensiro/vsm-harness-index/blob/5f6ea0c777733813ca42e3f210390a719488dcfb/assessments/he/hermes-agent.md"
+  ],
+  "next_action": "No controller implementation; reconsider only for demonstrated additional consumer benefit and scope, with effective owner RESUME and fresh source checks."
+}
