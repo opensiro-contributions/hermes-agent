@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "20261119T183553Z--hermes-s4-strategy-research",
+  "recorded_at": "2026-11-19T18:35:53Z",
+  "actor": "AI research assistant (user-requested independent Upstream roadmap rerun)",
+  "kind": "RESEARCH",
+  "decision": "PROPOSAL_GO; RESEARCH_NEEDS_EVIDENCE; S4=— -> S4=C",
+  "evidence_urls": [
+    "https://github.com/NousResearch/hermes-agent/commit/152fe18976002e9a987422b7c6102c805d61264b",
+    "https://github.com/opensiro/vsm-harness-index/blob/394ce776e6945115891b8f7cc459f5a7f7d7aa39/assessments/he/hermes-agent.md",
+    "https://github.com/opensiro/upstream/issues/58"
+  ],
+  "note": "Independent 2026-11-19 source-first plan-only roadmap; differs from historical model-lifecycle S4 NO_GO. Human/AI/receipt in .opensiro/issues/hermes-strategic-feedback-s4-20261119. No native product tests, external publication or grade change.",
+  "next_action": "Matched native counterfactual test using existing competitor-watch, cron and Kanban; no code change or external publication authorized"
+}
