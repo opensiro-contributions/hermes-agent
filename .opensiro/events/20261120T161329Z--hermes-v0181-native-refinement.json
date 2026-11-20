@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "20261120T161329Z--hermes-v0181-native-refinement",
+  "recorded_at": "2026-11-20T16:13:29.670Z",
+  "actor": "AI research assistant (owner-directed continuing same Upstream #58 Hermes Wave 4 case)",
+  "kind": "RESEARCH",
+  "decision": "GO / NEEDS_EVIDENCE retained; v0.18.1 Hermes-native-specific proposal refinement",
+  "evidence_urls": [
+    "https://github.com/NousResearch/hermes-agent/commit/f998a982cb8be2ac46b062d49996e8116b5171f7",
+    "https://github.com/NousResearch/hermes-agent/compare/2de9f51b8008a7d49a49221c184f2f11cbfc4af1...f998a982cb8be2ac46b062d49996e8116b5171f7",
+    "https://github.com/opensiro/upstream/issues/58#issuecomment-7044339659",
+    "https://github.com/opensiro/upstream/blob/ae7a8a6d32b4da1c5fd97c6862821460503bf9e2/PROTOCOL.md",
+    "https://github.com/opensiro/upstream/blob/ae7a8a6d32b4da1c5fd97c6862821460503bf9e2/docs/ROADMAP_REPORT.md#supplementary"
+  ],
+  "note": "Same existing model-lifecycle-s4-20261118 case. Original CI-only freshness compare verified; proposed smallest Hermes-native opt-in skill tied to profile-scoped Cron, models.dev and Kanban idempotent S3 decision + actual outcome readback. First-pass provenance unchanged; no tests/product code/new Upstream PR/publication.",
+  "next_action": "Optional owner-authorized native skill implementation and bounded real S3↔S4 run evidence; no automatic product adoption or external publication"
+}
