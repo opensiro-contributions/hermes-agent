@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "20261120T152019Z--hermes-model-lifecycle-wave4-neutrality",
+  "recorded_at": "2026-11-20T15:20:19.491Z",
+  "actor": "AI research assistant (owner-directed Upstream #58 Wave 4 independent rerun)",
+  "kind": "RESEARCH",
+  "decision": "PROPOSAL_GO; RESEARCH_NEEDS_EVIDENCE; S4=— -> S4=C",
+  "evidence_urls": [
+    "https://github.com/opensiro/upstream/issues/58#issuecomment-7043074679",
+    "https://github.com/NousResearch/hermes-agent/commit/2de9f51b8008a7d49a49221c184f2f11cbfc4af1",
+    "https://github.com/opensiro/vsm-harness-index/blob/dadcf25d6e7ffcbdb298e476a249b8be187c53b4/assessments/he/hermes-agent.md"
+  ],
+  "note": "New independent v0.18.0 assessment-neutral Hermes model-lifecycle rerun. First-pass verdict sealed before historical NO_GO comparison; distinct Hermes strategic-feedback case unchanged. Human/AI/receipt synchronized on opensiro/meta; no product test or external publication.",
+  "next_action": "Source-native isolated opt-in C-constructor A/B validation and separate maintainer adoption decision; no product implementation authorized"
+}

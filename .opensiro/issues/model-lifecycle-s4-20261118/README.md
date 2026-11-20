@@ -1,17 +1,15 @@
-# Hermes Agent — model lifecycle S4 research case
+# Hermes Agent — model lifecycle S4 roadmap
 
-**PLAN_ONLY / DECISION_READY · NO_GO now**
+**CURRENT (2026-11-20 Wave 4): PLAN_ONLY / GO / NEEDS_EVIDENCE — proposed S4=— → S4=C, not deployed.**
 
-- [Human decision + exact unpublished fork-Issue body](issue.md)
-- [AI/developer sufficiency and conditional acceptance](constructor-sufficiency.md)
-- [Source-pinned receipt](roadmap.md)
-- [Accepted historical assessment](https://github.com/opensiro/vsm-harness-index/blob/5f6ea0c777733813ca42e3f210390a719488dcfb/assessments/he/hermes-agent.md)
+- [Human decision / unpublished fork Issue](issue.md)
+- [AI constructor sufficiency and native falsifiers](constructor-sufficiency.md)
+- [Canonical proposal-gate receipt](roadmap.md)
+- [Independent first-pass verdict, sealed before historical comparison](https://github.com/opensiro/upstream/issues/58#issuecomment-7043074679)
+- [Previous 2026-11-18 historical NO_GO README](https://github.com/opensiro-contributions/hermes-agent/blob/c8e467899e7abbbaa4dcc2321835b81b2d571b57/.opensiro/issues/model-lifecycle-s4-20261118/README.md)
 
-Original: NousResearch/hermes-agent @ 2263438821ff3b9f1521096dc9997b04ef9d0834.
-Verified working fork: opensiro-contributions/hermes-agent; metadata branch opensiro/meta, based on fork main 4c11aea4511123159785d5422e2dbba3867a4756.
+Original: [NousResearch/hermes-agent @ 2de9f51b8008](https://github.com/NousResearch/hermes-agent/commit/2de9f51b8008a7d49a49221c184f2f11cbfc4af1); accepted included Index [assessment](https://github.com/opensiro/vsm-harness-index/blob/dadcf25d6e7ffcbdb298e476a249b8be187c53b4/assessments/he/hermes-agent.md) blob `23b9c8ccc3dd063a03d15c96eee2bf8359ee2377` (reviewed 2026-09-17, Profile 0.2.1, procedure 0.3.1).
 
-A separate autonomous S4 model-migration controller is not qualified now. The real evidenced demand is the narrower advisory [#5452](https://github.com/NousResearch/hermes-agent/issues/5452); current native catalogs and explicit model choice are the baseline. Existing proposals are reconciled in the receipt, not treated as shipped C or complete coverage.
+**Changed verdict, not deleted history.** Prior same-case `NO_GO / DECISION_READY` (2026-11-18) rejected unproved extra product benefit; published Upstream v0.18.0 separates maintainer desirability from autonomous C-constructibility. Current `GO / NEEDS_EVIDENCE` means a source-native independent future-signal→options→S3 choice→future outcome→S4 return path is architecturally coherent **if built and tested**, but has not been implemented or run. The distinct `hermes-strategic-feedback-s4-20261119` case remains separate and untouched.
 
-Initial attention/owner control: DORMANT / PAUSE. This research checkpoint authorizes no implementation, further metadata mutation or owner RESUME. Next conditional step is evidence of a materially additional consumer task plus legitimate scope and effective owner rights. There is no routine continuation dependency.
-
-Public fork Issue: NOT PUBLISHED (Issues disabled at inspection). Exact title is in roadmap.md; full body is issue.md. Original Issue: NOT PUBLISHED; no duplicate is proposed. Native tests: NOT_RUN. Cost: NOT_MEASURED. No new contribution record or Index regrade.
+Matching verified fork: `opensiro-contributions/hermes-agent`, metadata `opensiro/meta`; owner `ACTIVE/ALLOW` at write; no external/public fork Issue or PR approval. Product tests NOT_RUN, economics NOT_MEASURED, original maintainer adoption UNKNOWN. Next action is an opt-in native A/B acceptance trial against warning+manual model selection, after separate authorization for implementation.
