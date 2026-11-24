@@ -1,17 +1,9 @@
-# Hermes Agent — model lifecycle S4 roadmap
+# Hermes Agent — existing model lifecycle roadmap case
 
-**CURRENT (2026-11-20 Wave 4): PLAN_ONLY / GO / NEEDS_EVIDENCE — proposed S4=— → S4=C, not deployed.**
+PLAN_ONLY · GO / NEEDS_EVIDENCE · DRAFT — NOT PUBLISHED. Stable case model-lifecycle-s4-20261118, fork opensiro-contributions/hermes-agent; original NousResearch/hermes-agent.
 
-- [Human decision / unpublished fork Issue](issue.md)
-- [AI constructor sufficiency and native falsifiers](constructor-sufficiency.md)
-- [Canonical proposal-gate receipt](roadmap.md)
-- [Independent first-pass verdict, sealed before historical comparison](https://github.com/opensiro/upstream/issues/58#issuecomment-7043074679)
-- [Previous 2026-11-18 historical NO_GO README](https://github.com/opensiro-contributions/hermes-agent/blob/c8e467899e7abbbaa4dcc2321835b81b2d571b57/.opensiro/issues/model-lifecycle-s4-20261118/README.md)
+[roadmap.md](roadmap.md) — canonical historical decision and dated publication reconciliation.
+[issue.md](issue.md) — Human case.
+[constructor-sufficiency.md](constructor-sufficiency.md) — AI technical companion.
 
-Original: [NousResearch/hermes-agent @ 2de9f51b8008](https://github.com/NousResearch/hermes-agent/commit/2de9f51b8008a7d49a49221c184f2f11cbfc4af1); accepted included Index [assessment](https://github.com/opensiro/vsm-harness-index/blob/dadcf25d6e7ffcbdb298e476a249b8be187c53b4/assessments/he/hermes-agent.md) blob `23b9c8ccc3dd063a03d15c96eee2bf8359ee2377` (reviewed 2026-09-17, Profile 0.2.1, procedure 0.3.1).
-
-**Changed verdict, not deleted history.** Prior same-case `NO_GO / DECISION_READY` (2026-11-18) rejected unproved extra product benefit; published Upstream v0.18.0 separates maintainer desirability from autonomous C-constructibility. Current `GO / NEEDS_EVIDENCE` means a source-native independent future-signal→options→S3 choice→future outcome→S4 return path is architecturally coherent **if built and tested**, but has not been implemented or run. The distinct `hermes-strategic-feedback-s4-20261119` case remains separate and untouched.
-
-Matching verified fork: `opensiro-contributions/hermes-agent`, metadata `opensiro/meta`; owner `ACTIVE/ALLOW` at write; no external/public fork Issue or PR approval. Product tests NOT_RUN, economics NOT_MEASURED, original maintainer adoption UNKNOWN. Next action is an opt-in native A/B acceptance trial against warning+manual model selection, after separate authorization for implementation.
-
-**v0.18.1 native-specific follow-up (2026-11-20):** The same source-pinned GO / NEEDS_EVIDENCE hypothesis was refined against current original [main@f998a982](https://github.com/NousResearch/hermes-agent/commit/f998a982cb8be2ac46b062d49996e8116b5171f7). The minimal proposed Hermes-native change is an opt-in `skills/research/model-lifecycle-watch/SKILL.md` orchestrating existing profile-scoped Cron, provider metadata and idempotent Kanban S3 decision/real run-result feedback. This is PLAN_ONLY, not a deployed skill. [Canonical technical receipt](roadmap.md) · [Human](issue.md) · [AI](constructor-sufficiency.md). No new Upstream PR; earlier #83 closed unmerged and indexed under Supplementary.
+2026-11-24: same-case source review at 4c84e78629cf1cdfcb79bea3b39aa4a49003c829, Upstream main 3c8cb344681a96f3acf57ee9331034d05bb82841. New native alternatives (optional watchers and existing watchdog proposals) narrow the construction; candidate reuse of original #5452, not a new Issue. ROADMAP_NOT_READY_FOR_EXTERNAL_PROPOSAL: bounded live history unavailable (403 and truncated PR search), no reconciled digest, no demonstrated incremental product utility. No approval requested and no outward draft persisted. Earlier local original Issue draft superseded, not published. Historical case retained at [prior commit](https://github.com/opensiro-contributions/hermes-agent/blob/36bf948e61e784787cc925adf080b0958070b629/.opensiro/issues/model-lifecycle-s4-20261118/roadmap.md). Native tests NOT_RUN; cost NOT_MEASURED. No new assessment, product change, publication or consent implied. Next action: complete bounded history and source-native review or conclude no useful delta.

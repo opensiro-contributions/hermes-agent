@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "20261124T151105Z--hermes-publication-reconciliation-blocked",
+  "recorded_at": "2026-11-24T15:11:05Z",
+  "actor": "AI research assistant (owner-directed continuation of existing Upstream #58 Hermes case)",
+  "kind": "RESEARCH",
+  "decision": "GO / NEEDS_EVIDENCE retained; external proposal ROADMAP_NOT_READY_FOR_EXTERNAL_PROPOSAL",
+  "evidence_urls": [
+    "https://github.com/NousResearch/hermes-agent/commit/4c84e78629cf1cdfcb79bea3b39aa4a49003c829",
+    "https://github.com/NousResearch/hermes-agent/issues/5452",
+    "https://github.com/NousResearch/hermes-agent/pull/139455",
+    "https://github.com/NousResearch/hermes-agent/blob/4c84e78629cf1cdfcb79bea3b39aa4a49003c829/optional-skills/devops/watchers/SKILL.md",
+    "https://github.com/opensiro/upstream/pull/111"
+  ],
+  "note": "Existing stable case, targeted source refresh; new native monitoring evidence and reuse candidate #5452. Live integrated bounded history blocked by HTTP 403 and truncated PR search. No reconciliation digest, external proposal preview, implementation, new Index assessment or publication. Both current case validators PASS locally.",
+  "next_action": "Restore verified bounded history and finish age-triggered native overlap review; only prepare useful existing Issue comment if distinct user benefit is justified; otherwise record no outreach."
+}

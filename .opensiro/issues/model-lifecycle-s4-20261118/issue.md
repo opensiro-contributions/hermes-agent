@@ -1,78 +1,85 @@
-# Hermes Agent — model lifecycle S4 roadmap (OpenSiro plan-only)
+# Hermes Agent — S4 model-retirement watch (Opensiro roadmap)
 
-**CURRENT Wave 4 · 2026-11-20 · GO / NEEDS_EVIDENCE (proposal only) · Public Issue: NOT PUBLISHED**
+**PLAN_ONLY · proposal-stage GO · research NEEDS_EVIDENCE · DRAFT — NOT PUBLISHED**
 
-[roadmap.md](roadmap.md) · [constructor-sufficiency.md](constructor-sufficiency.md) · [historical case snapshot](https://github.com/opensiro-contributions/hermes-agent/blob/c8e467899e7abbbaa4dcc2321835b81b2d571b57/.opensiro/issues/model-lifecycle-s4-20261118/issue.md)
+**One-sentence proposal:** Compose an opt-in prospective model-retirement watch Skill using the existing Cron/profile/Kanban path and authorized later validation feedback.
+**Canonical decision receipt:** [roadmap.md](roadmap.md).
+**Technical companion:** [constructor-sufficiency.md](constructor-sufficiency.md).
+**Working fork:** opensiro-contributions/hermes-agent · **Case:** model-lifecycle-s4-20261118 on opensiro/meta.
+
+## 1. Why Opensiro and central accepted VSM assessment
+
+Opensiro investigates whether reusable VSM-informed organizational descriptions and constructor capabilities can make AI-agent harness engineering more systematic; this is a hypothesis, not proven cost reduction or a mandate to adopt VSM.
+
+**ACCEPTED HISTORICAL INDEX — not current-HEAD grades or proposed after-states**
+
+**S1=A · S2=A · S3=C(P) · S3*=C · S4=— · S5=—**
+
+[Accepted assessment](https://github.com/opensiro/vsm-harness-index/blob/dadcf25d6e7ffcbdb298e476a249b8be187c53b4/assessments/he/hermes-agent.md), Index dadcf25d6e7ffcbdb298e476a249b8be187c53b4, blob 23b9c8ccc3dd063a03d15c96eee2bf8359ee2377, review_ref 16bddc88dd325c5eef27c2cc71bbb14c16b870aa, 2026-09-17, Profile 0.2.1 / Skills 0.3.1.
+
+**Repository-wide audit:** Preserve the original six-function research [receipt](https://github.com/opensiro-contributions/hermes-agent/blob/36bf948e61e784787cc925adf080b0958070b629/.opensiro/issues/model-lifecycle-s4-20261118/roadmap.md) and [historical Human analysis](https://github.com/opensiro-contributions/hermes-agent/blob/36bf948e61e784787cc925adf080b0958070b629/.opensiro/issues/model-lifecycle-s4-20261118/issue.md). For this publication preparation, re-read current original main 4c84e78629cf1cdfcb79bea3b39aa4a49003c829 on 2026-11-24, especially [Cron](https://github.com/NousResearch/hermes-agent/blob/4c84e78629cf1cdfcb79bea3b39aa4a49003c829/website/docs/user-guide/features/cron.md), [model metadata](https://github.com/NousResearch/hermes-agent/blob/4c84e78629cf1cdfcb79bea3b39aa4a49003c829/agent/models_dev.py), [Kanban schemas](https://github.com/NousResearch/hermes-agent/blob/4c84e78629cf1cdfcb79bea3b39aa4a49003c829/tools/kanban_tools_schemas.py), [fallback checks](https://github.com/NousResearch/hermes-agent/blob/4c84e78629cf1cdfcb79bea3b39aa4a49003c829/website/docs/user-guide/features/fallback-providers.md), [skill rules](https://github.com/NousResearch/hermes-agent/blob/4c84e78629cf1cdfcb79bea3b39aa4a49003c829/skills/AGENTS.md) and [contributing](https://github.com/NousResearch/hermes-agent/blob/4c84e78629cf1cdfcb79bea3b39aa4a49003c829/CONTRIBUTING.md); this targeted refresh is not a fresh independent whole-repository assessment. Boundary: installed persistent profiles, Bot Mode, Kanban and configured first-party workflows, not provider or maintainer organization.
+
+| Function / plain-language role | Historical Index state | Source-backed owner / closure | Candidate |
+| --- | --- | --- | --- |
+| **S1 · Operations** | A | Autonomous profiles and Kanban workers in accepted assessment | NO_TARGET |
+| **S2 · Coordination** | A | Bot handoffs, dependencies and claims in accepted assessment | NO_TARGET |
+| **S3 · Current management** | C(P) | Configured orchestrator and separate parent board-control path | Reuse |
+| **S3* · Independent review** | C | Configured verifier and request-changes review | Reuse |
+| **S4 · Future adaptation** | — | Current catalog and Cron are building blocks, not evidenced complete prospective decision/return | P0 |
+| **S5 · Identity/policy** | — | Owner policy, profile permissions and credentials | Parent reserved |
+
+A is autonomous owned closure; C is function-specific first-party construction; P is supported parent-governed S3/S4/S5; A(P)/C(P) add separately evidenced parent modes; — is bounded absence; ? is unresolved evidence. These are **ownership categories, not quality ranks**.
+
+**Priority rationale:** Same historical GO / NEEDS_EVIDENCE case: distinct S4 prospective choice and feedback can reuse Cron and Kanban without changing existing operational or policy ownership.
+**Deliberate exclusions / methodology challenge:** No current grade change, no new S5 authority, no general model-routing controller; equivalent native closure or sufficient existing workflow falsifies the case.
+
+## 2. Selected construction hypothesis and operator outcome
 
 **Target transition:** S4=— -> S4=C
+**Function-specific disturbance:** HYPOTHETICAL dated official notice of a future provider/model retirement affecting a configured profile or scheduled workload.
+**Proposed C capability (P0):** A dedicated, configured Skill-backed Cron profile compares lawful retain/prepare/hold options, submits one idempotent Kanban decision card, reads authorized owner disposition and the later bounded validation result, then revises its next recommendation.
+**Best native operator alternative:** Existing warning/manual model selection, configured fallback check and a user-authored Cron prompt reusing the optional watchers Skill.
+**Expected user benefit:** Prepare and track a successor decision before a scheduled failure without a silent route change; not measured or demonstrated.
+**Architectural sufficiency argument:** Existing first-party scheduling, optional skill and configured Kanban creation/readback provide the native seams; a prospective actor and real attributable later feedback are required. If ordinary native composition suffices, reuse it.
+
+## 3. Existing native work versus missing construction
+
+**Track A — native coverage:** [Cron](https://github.com/NousResearch/hermes-agent/blob/4c84e78629cf1cdfcb79bea3b39aa4a49003c829/website/docs/user-guide/features/cron.md), [model metadata](https://github.com/NousResearch/hermes-agent/blob/4c84e78629cf1cdfcb79bea3b39aa4a49003c829/agent/models_dev.py), [Kanban schemas](https://github.com/NousResearch/hermes-agent/blob/4c84e78629cf1cdfcb79bea3b39aa4a49003c829/tools/kanban_tools_schemas.py), [fallback checks](https://github.com/NousResearch/hermes-agent/blob/4c84e78629cf1cdfcb79bea3b39aa4a49003c829/website/docs/user-guide/features/fallback-providers.md), [skill rules](https://github.com/NousResearch/hermes-agent/blob/4c84e78629cf1cdfcb79bea3b39aa4a49003c829/skills/AGENTS.md) and [contributing](https://github.com/NousResearch/hermes-agent/blob/4c84e78629cf1cdfcb79bea3b39aa4a49003c829/CONTRIBUTING.md). Original #5452 and #5437 are open advisory-warning/capability requests; PR #26297 and #115486 remain OPEN_PR. Existing source already supports manual fallback tests and configured task metadata, not demonstrated full proposed prospective feedback.
+**Track B — independent on-top C construction:** Same-case optional model-lifecycle-watch Skill, not a new detector, routing hook or daemon; opt-in source freshness, retain/prepare/hold decision, versioned Kanban handoff, and later result correlation. Maintain current parent and profile limits.
+**Distinctness and falsifier:** #26297 redirects after detection; #115486 proposes policy at route resolution; neither is claimed implemented or independently equivalent. Prefer existing work if it already supplies the same operator outcome. [Optional watchers](https://github.com/NousResearch/hermes-agent/blob/4c84e78629cf1cdfcb79bea3b39aa4a49003c829/optional-skills/devops/watchers/SKILL.md) already provides periodic polling and dedup; [community model drift catalog](https://github.com/NousResearch/hermes-agent/blob/4c84e78629cf1cdfcb79bea3b39aa4a49003c829/plugin-catalog/model-drift-watch.yaml) describes quality alerts. PR #139455 already discusses a watchdog. The remaining hypothesis is prospective choice and actual later Kanban outcome, not another watcher. Prefer existing #5452 discussion only if a concrete incremental result is justified; full history is blocked (403/truncated query). See the dated canonical reconciliation.
+
+## 4. Priorities and minimum sufficient result
+
+- **P0:** The same canonical Skill-backed model-lifecycle watch profile with prospective decision and two-way Kanban feedback.
+- **P1:** Exact provider/model identity and source freshness, profile/board permission, idempotency, approved future validation and actual outcome readback; native tests.
+- **P2:** NONE.
+
+**Proposed C-sufficiency verdict:** PROPOSED_C_SUFFICIENT as architectural hypothesis, NEEDS_EVIDENCE; no implemented or assessed C.
+
+## 5. Proposed acceptance and stop gates
+
+**Future positive test:** Synthetic dated retirement and multiple lawful candidates; independent watch choice, one card, owner decision and correlated actual validation result change later advice.
+**Future negative test:** Missing/stale notice, unsupported model, repeat tick, wrong profile, owner rejection, manual pin, absent outcome; no unauthorized change.
+**Proposed falsifier:** Equivalent existing native path, no lawful independent decision owner or no return-to-later-operation evidence.
+**Validation state:** NOT_RUN.
+
+## 6. Independent paths
+
+**Original-native contribution:** Prefer existing warning/fallback, user-authored Cron or optional/Hub Skill if maintainers prefer; do not duplicate related Issues.
+**Profile / Skills:** Separate methodology correction only if actual counterexample appears.
+**Domain fork:** Lawful opt-in experiment only with separate authority.
+
+## 7. Cost hypothesis
+
+**Cost status: NOT_MEASURED**; compare matched native task engineering, integration, review, test and maintenance costs later.
+
+## 8. Decision / handoff
+
 **Proposal-stage decision:** GO
 **Research disposition:** NEEDS_EVIDENCE
+**Decision reason / next permitted step:** Preserve existing source-grounded architecture hypothesis. ROADMAP_NOT_READY_FOR_EXTERNAL_PROPOSAL. No new Issue; consider #5452 only after complete history/overlap reconciliation and proof of concrete usefulness beyond native configured composition. Preserve canonical research GO / NEEDS_EVIDENCE; no approval preview or POST.
+**Agent/developer handoff:** [constructor-sufficiency.md](constructor-sufficiency.md) and [roadmap.md](roadmap.md).
+**Rights and publication:** MIT; fork verified ACTIVE/ALLOW. Follow current [contributor rules](https://github.com/NousResearch/hermes-agent/blob/4c84e78629cf1cdfcb79bea3b39aa4a49003c829/CONTRIBUTING.md); no credential or policy transfer, no code or external publication authorized. Any future implementation separately checks actual contributor requirements.
+**AI disclosure:** AI-assisted research and draft; native tests, demand, independent human review and benefit not demonstrated.
 
-## Proposed original-native capability
-
-An opt-in, *developer-composable* future provider/model retirement watcher using Hermes' supported separate profiles, Cron jobs, model catalogue, skills/plugin hooks and Kanban. A designated independent future-analysis profile reads **dated provider lifecycle evidence**, autonomously chooses `retain / prepare successor / hold` from verified lawful options, and sends source-linked, versioned choices to the explicitly configured current-work S3 owner. The operator/current owner controls any model changes, especially credentials, future-session effects and rejected proposals. A subsequent task/route outcome returns to the same watcher for revision of its next recommendation.
-
-This is a constructor hypothesis, not a current shipped Hermes feature or claim of customer demand. It requires explicit opt-in, an external signal, a real autonomous choice, executable feedback/effect boundaries and an observed future outcome. A generic Cron digest, model-catalog refresh or automatic fallback does not establish that path.
-
-## Why this is separately assessable
-
-The [accepted historical Index assessment](https://github.com/opensiro/vsm-harness-index/blob/dadcf25d6e7ffcbdb298e476a249b8be187c53b4/assessments/he/hermes-agent.md) (blob `23b9c8ccc3dd063a03d15c96eee2bf8359ee2377`; 2026-09-17; source `16bddc88dd325c5eef27c2cc71bbb14c16b870aa`; Profile 0.2.1 / procedure 0.3.1) classifies ownership/configurability, not product quality. It does **not** claim current 2026-11-20 code has changed grade.
-
-| Function | Accepted state | Current-source interpretation and constructor decision |
-| --- | --- | --- |
-| **S1 · Operations** | A | Autonomous Hermes profiles and Kanban workers; no new S1 target |
-| **S2 · Coordination** | A | Bot handoffs, task ownership and dependencies; no new S2 target |
-| **S3 · Inside-and-now** | C(P) | Configured orchestrator board control plus human board owner; reused for authorized choices |
-| **S3* · Independent audit** | C | Configured review/verifier with corrective return; keep separate |
-| **S4 · Outside-and-then** | — | No historical prospective choice+S3 feedback closure; **optional proposed S4=C** |
-| **S5 · Policy and identity** | — | Owner/provider policy and credentials not delegated by this plan |
-
-A means autonomous owned closure; C means developer-composable owned closure; P means parent-controlled closure where the Skills grammar permits it; `—` is no accepted closure, **not a defect or mandate**. The transition is hypothetical and does not update these accepted historical states.
-
-## Track A — source-native baseline
-
-At [original main@2de9f51b8008a7d49a49221c184f2f11cbfc4af1](https://github.com/NousResearch/hermes-agent/commit/2de9f51b8008a7d49a49221c184f2f11cbfc4af1), first-party [model metadata](https://github.com/NousResearch/hermes-agent/blob/2de9f51b8008a7d49a49221c184f2f11cbfc4af1/agent/models_dev.py) already includes status/release/capability fields; [fallback configuration](https://github.com/NousResearch/hermes-agent/blob/2de9f51b8008a7d49a49221c184f2f11cbfc4af1/website/docs/user-guide/features/fallback-providers.md) supports ordered failover and dry-run/live checks; [Cron](https://github.com/NousResearch/hermes-agent/blob/2de9f51b8008a7d49a49221c184f2f11cbfc4af1/website/docs/user-guide/features/cron.md) can run isolated recurring profiles; [Kanban](https://github.com/NousResearch/hermes-agent/blob/2de9f51b8008a7d49a49221c184f2f11cbfc4af1/website/docs/user-guide/features/kanban-tutorial.md) carries assignments, dependencies and run outcomes; [observer hooks](https://github.com/NousResearch/hermes-agent/blob/2de9f51b8008a7d49a49221c184f2f11cbfc4af1/website/docs/developer-guide/observer-hooks.md) expose provider attempt/result/error telemetry. None independently establishes an autonomous *prospective* model-life decision and S3↔S4 closure.
-
-Existing original [Issue #5452](https://github.com/NousResearch/hermes-agent/issues/5452) asks for a deprecation warning, and [#5437](https://github.com/NousResearch/hermes-agent/issues/5437) for compatibility preflight. [PR #26297](https://github.com/NousResearch/hermes-agent/pull/26297) remains **OPEN/UNMERGED** for reactive detection and redirect; [PR #115486](https://github.com/NousResearch/hermes-agent/pull/115486) remains **OPEN/UNMERGED** for routing policy. [#150930](https://github.com/NousResearch/hermes-agent/issues/150930) documents an unresolved plugin switch contract. Existing proposals cannot be credited as merged behavior or used to infer maintainers' final choice.
-
-## Track B — bounded constructor and alternatives
-
-| Option | New user-visible function if validated | Boundary |
-| --- | --- | --- |
-| A · reuse native warning/manual selection | Warning and manual operator choice; no claimed additional C | Lowest-cost product baseline and legitimate alternative |
-| B · opt-in S4 profile + watcher + Kanban two-way link | External future signal → autonomous options/hold → S3 decision → next-session outcome → revised S4 option | Source-native candidate; needs tests, narrow lawful authority |
-| C · automatic redirect, separate catalog daemon, generic new hook | Reactive convenience or infrastructure, not sufficient prospective S4 | Avoid duplicate #26297 / unused core surface |
-
-**GO means construction can be coherently specified using the first-party extension and decision boundaries if implemented**, not that Hermes should implement it. The actual model switch and choice of allowed providers remain with current S3/parent and the original maintainer. Product adoption is the maintainer's decision.
-
-### v0.18.1 follow-up — precise Hermes-native proposal (same case)
-
-This refines the already sealed Wave 4 proposal; the 2026-11-20 original main advanced to [`f998a982cb8b`](https://github.com/NousResearch/hermes-agent/commit/f998a982cb8be2ac46b062d49996e8116b5171f7) through five [CI/plugin-compatibility commits](https://github.com/NousResearch/hermes-agent/compare/2de9f51b8008a7d49a49221c184f2f11cbfc4af1...f998a982cb8be2ac46b062d49996e8116b5171f7) with no model-route, Cron, Kanban or skills code change. The accepted historical Index vector remains unchanged.
-
-**What would an operator actually gain if this were built?** An optional *Hermes profile's own* recurring model-retirement research task which compares valid future model alternatives before the provider switch breaks a configured profile, generates **one** reviewable Kanban proposal, reads the owner's decision and the result of a real bounded follow-up execution, and revises the next recommendation. This is not a new universal S4 controller or a recommendation to automate every provider change.
-
-**Smallest new first-party artifact (not yet shipped):** `skills/research/model-lifecycle-watch/SKILL.md`. It would teach a named `model-watch` Hermes profile to use existing [profile-scoped Cron](https://github.com/NousResearch/hermes-agent/blob/f998a982cb8be2ac46b062d49996e8116b5171f7/website/docs/user-guide/features/cron.md) (not a central daemon); record a dated official provider/model notice plus [models.dev metadata](https://github.com/NousResearch/hermes-agent/blob/f998a982cb8be2ac46b062d49996e8116b5171f7/agent/models_dev.py); keep an idempotent local watch state and `retain / prepare / hold` alternatives; create the **actual** S3 handoff using [`kanban_create` with `idempotency_key`](https://github.com/NousResearch/hermes-agent/blob/f998a982cb8be2ac46b062d49996e8116b5171f7/tools/kanban_tools_schemas.py); and on the next tick read [`kanban_show` task comments/attempts](https://github.com/NousResearch/hermes-agent/blob/f998a982cb8be2ac46b062d49996e8116b5171f7/tools/kanban_tools_schemas.py) before deciding again. The existing [competitor-watch skill](https://github.com/NousResearch/hermes-agent/blob/f998a982cb8be2ac46b062d49996e8116b5171f7/skills/research/competitor-news-monitor/SKILL.md) is a **procedural pattern** for source freshness, not a deployed provider-sunset watcher. No new generic service or unsupported credential-switch hook is presumed.
-
-**Decision ownership:** The S4 profile may *propose* only, after autonomous prospective comparison. Its `kanban` toolset is explicit, not assumed on every profile. A configured S3 profile or human checks the decision card, may accept/defer/reject, and alone controls the bounded real model-selection or later validation action. `hermes fallback check` checks only preconfigured fallback entries; it does not validate any imagined alternative or silently switch user-pinned sessions. Neither raw provider errors nor absence from a possibly stale catalogue proves retirement. A follow-up receipt must identify an actual eligible session/assigned task result, not a fabricated successful migration.
-
-**Failing acceptance cases** are missing official notice, stale or incomplete catalogue, disallowed or account-specific provider/model identity, missing/revoked watcher, wrong profile/tenant, repeat Cron event/duplicate card, owner rejection, active-session prompt-cache changes, and a later task with no verifiable outcome; any of these must HOLD/UNKNOWN without unauthorized route change. Native regression starting points are [Cron profile isolation](https://github.com/NousResearch/hermes-agent/blob/f998a982cb8be2ac46b062d49996e8116b5171f7/tests/cron/test_cron_profile_isolation.py), [Cron–Kanban environment isolation](https://github.com/NousResearch/hermes-agent/blob/f998a982cb8be2ac46b062d49996e8116b5171f7/tests/cron/test_cron_kanban_env_isolation.py), [Kanban tool semantics](https://github.com/NousResearch/hermes-agent/blob/f998a982cb8be2ac46b062d49996e8116b5171f7/tests/tools/test_kanban_tools.py) and [fallback check](https://github.com/NousResearch/hermes-agent/blob/f998a982cb8be2ac46b062d49996e8116b5171f7/tests/hermes_cli/test_fallback_check.py); these were **read as test entry points, not run**.
-
-**Recommendation status:** `GO / NEEDS_EVIDENCE` remains a bounded *C construction hypothesis*, not a product decision, measured benefit or current S4=C. The [canonical receipt](roadmap.md) and [AI validation contract](constructor-sufficiency.md) own the full native mapping. Upstream v0.18.1 adds **no score or new GO gate**; owner remains free to prefer the existing warning/manual model-choice solution. Previous internal [PR #83](https://github.com/opensiro/upstream/pull/83) is CLOSED_UNMERGED under merged reporting hygiene; no replacement run PR is created.
-
-## Required acceptance and falsifiers (NOT_RUN)
-
-1. A real dated provider+model deprecation with trustworthy source, and an expired/stale/omitted/account-gated model negative without false retirement claims.
-2. At least two supportable future candidates (including `hold`) and a distinct S4 model/profile **choosing** between them under declared constraints; missing actor produces no decision.
-3. A durable S3 Kanban proposal accepted, deferred or rejected; no silent global override, cross-profile credentials, manual pins, current-session context rewrite or stale-revision write.
-4. A subsequent eligible session actually uses the authorized route (or fails honestly), with correlated provider/response outcome returned to S4 for a changed subsequent recommendation. Existing read-only hooks do not grant mutation.
-5. Native A/B versus warning + manual picker on the **same** future transition. If existing first-party paths already own equivalent complete S4 closure, the new construction is not qualified.
-
-No native tests or provider calls were run. Benefits, costs and maintainers' intentions are **NOT_MEASURED / NOT_INFERRED**.
-
-## Decision and provenance
-
-**P0 `S4=— → S4=C`: `GO / NEEDS_EVIDENCE`** for assessment-neutral architectural constructibility, `PLAN_ONLY / HYPOTHETICAL`. **P1:** validate actor, source, scoped authority, future-session effect and S3 feedback. **P2:** NONE.
-
-The [earlier 2026-11-18 NO_GO](https://github.com/opensiro-contributions/hermes-agent/blob/c8e467899e7abbbaa4dcc2321835b81b2d571b57/.opensiro/issues/model-lifecycle-s4-20261118/issue.md) used a material product-benefit criterion; preserve it as a historical decision, not as a veto of constructibility. This v0.18.0 post-release rerun was [sealed independently before old-case readback](https://github.com/opensiro/upstream/issues/58#issuecomment-7043074679). A [distinct Hermes external-strategy S4 case](https://github.com/opensiro-contributions/hermes-agent/blob/c8e467899e7abbbaa4dcc2321835b81b2d571b57/.opensiro/issues/hermes-strategic-feedback-s4-20261119/roadmap.md) stays separate and unchanged.
-
-Working fork `opensiro-contributions/hermes-agent@opensiro/meta`: `ACTIVE/ALLOW` read immediately before metadata commit; internal research writes permitted. MIT/CONTRIBUTING/AGENTS read; no third-party or public fork Issue/PR permission follows. Full text is **an unpublished fork-Issue draft only**. No product code, Index regrade or external communication occurred.
+Historical prior-format documents preserved at [Human](https://github.com/opensiro-contributions/hermes-agent/blob/36bf948e61e784787cc925adf080b0958070b629/.opensiro/issues/model-lifecycle-s4-20261118/issue.md) and [AI](https://github.com/opensiro-contributions/hermes-agent/blob/36bf948e61e784787cc925adf080b0958070b629/.opensiro/issues/model-lifecycle-s4-20261118/constructor-sufficiency.md). This is an in-place format refresh, not another independent research verdict.
