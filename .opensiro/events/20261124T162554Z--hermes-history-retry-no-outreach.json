@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "20261124T162554Z--hermes-history-retry-no-outreach",
+  "recorded_at": "2026-11-24T16:25:54Z",
+  "actor": "AI research assistant (owner-directed continuation)",
+  "kind": "RESEARCH",
+  "decision": "GO / NEEDS_EVIDENCE retained; outward NO_MATERIAL_DELTA / NO_OUTREACH at present",
+  "evidence_urls": [
+    "https://github.com/NousResearch/hermes-agent/issues/5452",
+    "https://github.com/NousResearch/hermes-agent/pull/139455",
+    "https://github.com/NousResearch/hermes-agent/pull/142953",
+    "https://github.com/NousResearch/hermes-agent/blob/2506f5b0a4d310b96ec2eb6f2de4ea7349ba4d15/cron/plugin_api.py",
+    "https://github.com/opensiro/upstream/pull/112"
+  ],
+  "note": "Dev-alpha-2 bounded history retry complete at original 4c84e78629cf1cdfcb79bea3b39aa4a49003c829 and fork meta 3e51f45f86e376dc047f674a49f47fd78f62d979: 201 candidates, zero errors, 2 cases, 0 matching publications, digest 8df480659f8613ea31d65f66c173cc23e4f45512759e09e96de9cefd88e7a81e. Original subsequently advanced; no current approval digest or semantic novelty claimed. Native alternatives and overlap mean no useful distinct contribution justified. Both validators passed before commit; no public outreach, no new Index grade, no native tests.",
+  "next_action": "Reopen only on demonstrated concrete distinct user benefit; refresh source/history and exact approval if outward action later justified."
+}
