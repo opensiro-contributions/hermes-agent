@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "20261124T154631Z--hermes-native-overlap-review",
+  "recorded_at": "2026-11-24T15:46:31Z",
+  "actor": "AI research assistant (owner-directed continuation)",
+  "kind": "RESEARCH",
+  "decision": "GO / NEEDS_EVIDENCE retained; no distinct useful outward contribution demonstrated; publication deferred and blocked",
+  "evidence_urls": [
+    "https://github.com/NousResearch/hermes-agent/issues/5452",
+    "https://github.com/NousResearch/hermes-agent/pull/5443",
+    "https://github.com/NousResearch/hermes-agent/pull/26297",
+    "https://github.com/NousResearch/hermes-agent/pull/139455",
+    "https://github.com/NousResearch/hermes-agent/pull/142953",
+    "https://github.com/NousResearch/hermes-agent/pull/29277",
+    "https://github.com/opensiro/upstream/pull/112"
+  ],
+  "note": "Targeted full bodies, comments, provider states, changed file lists and relevant diff hunks re-read; existing review already identifies curated fallback false warnings. Supplementary paginated PR results 173 distinct; upstream #112 merged, full CLI history remains blocked by exhausted unauthenticated REST core quota. No external proposal or publication; no new grade or native tests.",
+  "next_action": "Restore bounded history and establish actual distinct value of native configured prospective workflow before preparing any comment; do not duplicate already-raised feedback."
+}
