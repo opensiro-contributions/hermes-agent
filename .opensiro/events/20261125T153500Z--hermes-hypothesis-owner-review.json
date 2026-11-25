@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "20261125T153500Z--hermes-hypothesis-owner-review",
+  "recorded_at": "2026-11-25T15:35:00Z",
+  "actor": "AI research assistant (owner-directed continuation)",
+  "kind": "RESEARCH",
+  "decision": "GO / NEEDS_EVIDENCE retained; recommendation REUSE_EXISTING #5452; owner promotion decision reserved",
+  "evidence_urls": [
+    "https://github.com/opensiro/upstream/pull/113",
+    "https://github.com/NousResearch/hermes-agent/issues/5452",
+    "https://github.com/opensiro-contributions/hermes-agent/blob/53b78d7658a8f01fd143fceee66103966d1b0513/.opensiro/issues/model-lifecycle-s4-20261118/roadmap.md"
+  ],
+  "note": "Prior outreach veto superseded; both structural case validators passed on dev-alpha-2 before and after canonical persistence. Exact comment draft stored only in existing fork metadata. No outward POST or consent; live persisted-case gate must pass before owner-facing approval preview.",
+  "next_action": "Run live current persisted-case/history gate for exact comment bytes; present preview only on PASS and retain separate current-conversation owner approval."
+}
