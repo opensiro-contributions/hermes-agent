@@ -64,3 +64,5 @@ Canonical storage: opensiro-contributions/hermes-agent@opensiro/meta, model-life
 **AI disclosure:** AI-assisted; no native tests or independent human validation, no external communication permission.
 
 Historical detailed technical argument and previous test entry points remain at [prior pinned file](https://github.com/opensiro-contributions/hermes-agent/blob/36bf948e61e784787cc925adf080b0958070b629/.opensiro/issues/model-lifecycle-s4-20261118/constructor-sufficiency.md); this template refresh does not claim a new independent research pass.
+
+2026-11-25 live retry: publication review source advanced to 22facbc26e2be31a4a3c0708c05fa52d00f2a1b9; source compare and bounded native search reconciliation are recorded in [roadmap.md](roadmap.md). Exact comment draft unchanged, final consent gate pending.

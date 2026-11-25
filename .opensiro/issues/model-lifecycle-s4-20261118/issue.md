@@ -83,3 +83,5 @@ A is autonomous owned closure; C is function-specific first-party construction; 
 **AI disclosure:** AI-assisted research and draft; native tests, demand, independent human review and benefit not demonstrated.
 
 Historical prior-format documents preserved at [Human](https://github.com/opensiro-contributions/hermes-agent/blob/36bf948e61e784787cc925adf080b0958070b629/.opensiro/issues/model-lifecycle-s4-20261118/issue.md) and [AI](https://github.com/opensiro-contributions/hermes-agent/blob/36bf948e61e784787cc925adf080b0958070b629/.opensiro/issues/model-lifecycle-s4-20261118/constructor-sufficiency.md). This is an in-place format refresh, not another independent research verdict.
+
+2026-11-25 live retry: publication review source advanced to 22facbc26e2be31a4a3c0708c05fa52d00f2a1b9; source compare and bounded native search reconciliation are recorded in [roadmap.md](roadmap.md). Exact comment draft unchanged, final consent gate pending.
